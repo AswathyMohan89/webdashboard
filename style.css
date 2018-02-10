@@ -12,7 +12,7 @@
 }
 
 .st-img{
-     padding: 5px;
+    padding: 5px;
     height: 150px;
     width: 150px;
     float: left;
@@ -46,7 +46,7 @@
 .font-white{
     color: #FFFFFF;
 }
-.grey_bgcolor{
+.page-background{
     background-color: #EDEDED;
 }
 
